@@ -7,9 +7,9 @@
  
 - <b>Mathematical Modelling of Tumor Growth in Presence of Treatment</b>
 
-  This project was for my master research paper, where I simulated extinction times of cancer therapy treatment in the stochastic framework
+  This project was for my master's research paper, where I simulated extinction times of cancer therapy treatment in the stochastic framework
 
-  - The stochastic model uses the CTMC which accomodates the randomness of the treatment plan
+  - The stochastic model uses the CTMC which accommodates the randomness of the treatment plan
   - The Gillespie Simulation Algorithm was used for the model check
   - Optimised the treatment based on my model and obtained eradication times and probabilities 
  

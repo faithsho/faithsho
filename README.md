@@ -1,11 +1,19 @@
-<h1>Hi, I'm Faith! <!-- <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/faithshokalu/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1> 
-                    -->
-Insert description here, and edit projects as appropriate
+<h1>Hi, I'm Faith! 
+  
+   <br/><a href="https://github.com/faithsho">Mathematician</a>, <a href="https://www.linkedin.com/in/faithshokalu/">Data Analyst</a></h1> 
+                  
 
 <h2>👨‍💻 Projects:</h2>
-<!-- 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Mathematical Modelling of Tumor Growth in Presence of Treatment</b>
+
+  This project was for my master research paper, where I simulated extinction times of cancer therapy treatment in the stochastic framework
+
+  - The stochastic model uses the CTMC which accomodates the randomness of the treatment plan
+  - The Gillespie Simulation Algorithm was used for the model check
+  - Optimised the treatment based on my model and obtained eradication times and probabilities 
+ 
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b> 

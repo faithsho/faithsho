@@ -21,7 +21,19 @@
 
   - The stochastic model uses the CTMC which accommodates the randomness of the treatment plan
   - The Gillespie Simulation Algorithm was used for the model check
-  - Optimised the treatment based on my model and obtained eradication times and probabilities 
+  - Optimised the treatment based on my model and obtained eradication times and probabilities
+
+<b> <a href="https://github.com/faithsho/Ycombinator-Web-Scraper">Ycombinator Scraper</a> :</b>
+
+
+  This project automates data collection from Ycombinator, extracting company financial details for analysis.
+
+- Uses Selenium for web scraping with dynamic navigation and data extraction.  
+- Gathers company links, founder names, Twitter handles, and LinkedIn profiles.  
+- Implements random delays and exception handling for smoother and reliable scraping.
+
+
+
  
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

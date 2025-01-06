@@ -4,8 +4,16 @@
                   
 
 <h2>👨‍💻 Projects:</h2>
+<b> <a href="https://github.com/faithsho/Crunchbase-Web-Scraper/tree/main">Crunchbase Scraper</a> </b>
+
+  This project automates data collection from Crunchbase, extracting company financial details for analysis.
+
+  - Utilizes Selenium for web scraping with automated login and dynamic navigation.
+  - Extracts company data such as location, employee count and funding details.
+  - Adds randomized delays and handles exceptions to make the scraping process smoother and more reliable.
  
-- <b>Mathematical Modelling of Tumor Growth in Presence of Treatment</b>
+ 
+<b> Mathematical Modelling of Tumor Growth in Presence of Treatment </b>
 
   This project was for my master's research paper, where I simulated extinction times of cancer therapy treatment in the stochastic framework
 

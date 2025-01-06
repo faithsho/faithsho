@@ -13,6 +13,14 @@
   - Utilizes Selenium for web scraping with automated login and dynamic navigation.
   - Extracts company data such as location, employee count and funding details.
   - Adds randomized delays and handles exceptions to make the scraping process smoother and more reliable.
+
+
+<b> <a href="https://github.com/faithsho/SQL-and-Python-Automated-Data-Transformation">Tableau Visualizations</a> :</b>
+
+
+<b> <a href="https://github.com/faithsho/SQL-and-Python-Automated-Data-Transformation">SQL & Python Automated Data Transformation</a> :</b>
+
+- Reads data from multiple columns in an excel sheet and transform it into a simplified two-column structure
  
  
 <b> Mathematical Modelling of Tumor Growth in Presence of Treatment : </b>
@@ -26,7 +34,7 @@
 <b> <a href="https://github.com/faithsho/Ycombinator-Web-Scraper">Ycombinator Scraper</a> :</b>
 
 
-  This project automates data collection from Ycombinator, extracting company financial details for analysis.
+  Automates data collection from Ycombinator, extracting company financial details for analysis.
 
 - Uses Selenium for web scraping with dynamic navigation and data extraction.  
 - Gathers company links, founder names, Twitter handles, and LinkedIn profiles.  

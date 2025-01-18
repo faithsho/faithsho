@@ -17,12 +17,12 @@
 
 <b> <a href="https://github.com/faithsho/Tableau-Visualizations/tree/main">Tableau Visualizations</a> :</b>
 
-- A curated set of Tableau dashboards and visualizations addressing a variety of topics and datasets
+- A set of Tableau dashboards and visualizations addressing a variety of topics and datasets
 
 
 <b> <a href="https://github.com/faithsho/SQL-and-Python-Automated-Data-Transformation">SQL & Python Automated Data Transformation</a> :</b>
 
-- Reads data from multiple columns in an excel sheet and transform it into a simplified two-column structure
+- Reads data from multiple columns in an Excel sheet and transforms it into a simplified two-column structure
  
  
 <b> Mathematical Modelling of Tumor Growth in Presence of Treatment : </b>
@@ -40,7 +40,7 @@
 
 - Uses Selenium for web scraping with dynamic navigation and data extraction.  
 - Gathers company links, founder names, Twitter handles, and LinkedIn profiles.  
-- Implements random delays and exception handling for smoother and reliable scraping.
+- Implements random delays and exception handling for smoother and more reliable scraping.
 
 
 

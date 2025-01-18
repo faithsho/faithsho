@@ -10,7 +10,7 @@
 
   Data collection from Crunchbase, extracting company financial details for analysis.
 
-  - Utilizes Selenium for web scraping with automated login and dynamic navigation.
+  - Selenium for web scraping with automated login and dynamic navigation.
   - Extracts company data such as location, employee count and funding details.
   - Adds randomized delays and handles exceptions to make the scraping process smoother and more reliable.
 

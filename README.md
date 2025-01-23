@@ -3,7 +3,7 @@
    <br/><a href="https://github.com/faithsho">Mathematician</a>, <a href="https://www.linkedin.com/in/faithshokalu/">Data Analyst</a></h1> 
                   
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Projects:</h2>   
 
 <b> <a href="https://github.com/faithsho/Crunchbase-Web-Scraper/tree/main">Crunchbase Scraper</a> :</b>
 
